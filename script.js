@@ -9,7 +9,8 @@ generateBtn.addEventListener("click", () => {
         return;
     image.src = ` https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=${inputValue} `;
 
-    container.classList.add("active");
+        container.classList.add("active");
+
 
 
 })

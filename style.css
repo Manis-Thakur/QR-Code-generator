@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body{
-    background: linear-gradient(90deg, #f3f3a0, #f3cd85);
+    background: linear-gradient(45deg, #53eef9, #8578f7);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -65,3 +65,4 @@ body{
     padding: 25px;
     font-size: 35px;
 }
+
